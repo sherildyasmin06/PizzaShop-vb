@@ -1,0 +1,15 @@
+C:\Users\Alumno\Desktop\Pizzeria\Aplica03\obj\Debug\Aplica03.vbprojResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\Pizzeria\Aplica03\obj\Debug\Aplica03.Form2.resources
+C:\Users\Alumno\Desktop\Pizzeria\Aplica03\obj\Debug\Aplica03.Resources.resources
+C:\Users\Alumno\Desktop\Pizzeria\Aplica03\obj\Debug\Aplica03.vbproj.GenerateResource.Cache
+C:\Users\Alumno\Desktop\Pizzeria\Aplica03\bin\Debug\Aplica03.exe.config
+C:\Users\Alumno\Desktop\Pizzeria\Aplica03\bin\Debug\Aplica03.exe
+C:\Users\Alumno\Desktop\Pizzeria\Aplica03\bin\Debug\Aplica03.pdb
+C:\Users\Alumno\Desktop\Pizzeria\Aplica03\bin\Debug\Aplica03.xml
+C:\Users\Alumno\Desktop\Pizzeria\Aplica03\bin\Debug\ClassLibrary1.dll
+C:\Users\Alumno\Desktop\Pizzeria\Aplica03\bin\Debug\ClassLibrary1.pdb
+C:\Users\Alumno\Desktop\Pizzeria\Aplica03\bin\Debug\ClassLibrary1.xml
+C:\Users\Alumno\Desktop\Pizzeria\Aplica03\obj\Debug\Aplica03.exe
+C:\Users\Alumno\Desktop\Pizzeria\Aplica03\obj\Debug\Aplica03.xml
+C:\Users\Alumno\Desktop\Pizzeria\Aplica03\obj\Debug\Aplica03.pdb
+C:\Users\Alumno\Desktop\Pizzeria\Aplica03\obj\Debug\Aplica03.Form3.resources
